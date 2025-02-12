@@ -1,0 +1,8 @@
+A ::= a | A | b | A | c | A
+A ::= a | A | b | A | c
+A ::= a | A | b | c | A
+A ::= a | A | b | c
+A ::= a | b | A | c | A
+A ::= a | b | A | c
+A ::= a | b | c | A
+A ::= a | b | c
